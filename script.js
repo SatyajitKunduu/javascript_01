@@ -1,3 +1,6 @@
+//comments in javascript
+//"//"use this for comment out. comment out line dont read by the code reader
+// That is  only for understand the code.
 console.log("hello world");
 console.log("i am jit");
 console.log(10);
