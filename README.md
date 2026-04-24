@@ -1,5 +1,6 @@
 java script part 01
-contents:
+<BR>contents:
+
 1. comments
 2. varriables
 3. var,let,const
